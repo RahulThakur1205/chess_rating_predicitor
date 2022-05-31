@@ -1,25 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Description:                                                                                                                   
-# The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
-# 
-# Attributes:
-# 1. Glucose Level
-# 2. BMI
-# 3. Blood pressure
-# 4. Pregnancies
-# 5. Skin thickness
-# 6. Insulin
-# 7. Diabetes pedigree function
-# 8. Age
-# 9. Outcome
-
-# # Step 0: Import libraries and Dataset
-
-# In[1]:
-
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
